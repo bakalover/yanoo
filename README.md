@@ -7,10 +7,10 @@ Primary goal - create analogue of kotlin channel with `tokio::sync::broadcast` s
 ***
 ## Roadmap
 - [ ] Implement "infinite array"
-- [ ] Omptimal array MO
+- [ ] Optimal array MO
 - [ ] Array loom tests
 - [ ] Design shared state
 - [ ] Design send/recv 
 - [ ] Implement send/recv
-- [ ] Omptimal MO on send/recv
+- [ ] Optimal MO on send/recv
 - [ ] send/recv loom tests
