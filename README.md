@@ -1,4 +1,4 @@
-# chan
+# yanoo
 Blazingly fast lock-free rust channel
 ***
 Inspiration - [link](https://docs.rs/tokio/latest/src/tokio/sync/broadcast.rs.html#312)
