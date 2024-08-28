@@ -1,6 +1,7 @@
 # chan
-Multi CAS Lock-free rust channel
+Blazingly fast lock-free rust channel
 ***
+Inspiration - [link](https://docs.rs/tokio/latest/src/tokio/sync/broadcast.rs.html#312)
 Primary goal - create analogue of kotlin channel with `tokio::sync::broadcast` semantic and integrate it to tokio runtime as well
 ***
 ## Performance
