@@ -8,5 +8,4 @@ repository = "https://github.com/bakalover/yanoo"
 
 
 [dependencies]
-[target.'cfg(loom)'.dependencies]
 loom = "0.7"
